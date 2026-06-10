@@ -24,15 +24,18 @@ Over the years I've shipped projects across web, mobile, data, and automation.
 
 - 🕊️ **[Memorial Vivo](https://memorialvivo.com.br)** — Keep alive the memories of those you love (React Native + Rails)
 - 🧳 **[Tripify Travel](https://tripifyapp.com)** — Social travel platform (Android + Rails)
-- ⚖️ **[MetaComet Rights](https://github.com/MetaCometLabs/rights)** — Publishing rights & royalty management system (Go + React + TypeScript)
 - 🤖 **[Personal Assistant](https://github.com/augustocbx/assistente-pessoal)** — AI assistant on Telegram with Claude orchestration, fully Dockerized (Python)
 - 💰 **[Finance Dashboard](https://github.com/augustocbx/dashboard-financas)** — Personal financial dashboard powered by the Pierre Finance API (TypeScript)
-- ⚾ **[Year in Baseball](https://github.com/augustocbx/Year-in-Baseball-Project)** — Historical season simulation (Rails, PostgreSQL, D3, AngularJS)
 
-#### 📊 GitHub Stats
+#### 🌟 Open Source Contributions
 
-![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustocbx&show_icons=true&theme=default)
+Proud to have contributed accepted pull requests to projects I use and love:
+
+- [rails/rails](https://github.com/rails/rails) ⭐ 58k
+- [heartcombo/devise](https://github.com/heartcombo/devise) ⭐ 24k
+- [rubocop/rubocop](https://github.com/rubocop/rubocop) ⭐ 12k
 
 #### 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustocbx/)
+[![GitRanks](https://img.shields.io/badge/-GitRanks-181717?logo=github&logoColor=white)](https://gitranks.com/profile/augustocbx)
