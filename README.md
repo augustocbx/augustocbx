@@ -5,7 +5,7 @@ Goiânia, Brazil 🇧🇷 · Remote for teams in the US, Canada & Europe
 
 20+ years building software — Ruby on Rails since 2008. I work on **royalty & rights platforms, SaaS, and high-volume web systems**: performance, background processing, search at scale, and long-lived system evolution. Senior Engineer at **MetaComet Systems** and creator of **[Memorial Vivo](https://memorialvivo.com.br)**.
 
-🔗 **[Portfolio](https://augustocbx.pages.dev)** · [LinkedIn](https://www.linkedin.com/in/augustocbx/) · [Résumé (PDF)](https://augustocbx.pages.dev/assets/augusto-xavier-cv.pdf)
+🔗 **[Portfolio](https://augustocbx.pages.dev)** · [LinkedIn](https://www.linkedin.com/in/augustocbx/) · [Resume (PDF)](https://augustocbx.pages.dev/assets/augusto-xavier-cv.pdf)
 
 ---
 
