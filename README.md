@@ -3,7 +3,9 @@
 **Senior Software Engineer · Ruby on Rails & Go**
 Goiânia, Brazil 🇧🇷 · Remote for teams in the US, Canada & Europe
 
-20+ years building software — Ruby on Rails since 2008. I work on **royalty & rights platforms, SaaS, and high-volume web systems**: performance, background processing, search at scale, and long-lived system evolution. Senior Engineer at **MetaComet Systems** and creator of **[Memorial Vivo](https://memorialvivo.com.br)**.
+20+ years building software — Ruby on Rails since 2008. I work on **royalty & rights platforms, SaaS, and high-volume web systems**: performance, background processing, search at scale, and long-lived system evolution. Senior Engineer at **MetaComet Systems**.
+
+On the side I build products end to end: **[Memorial Vivo](https://memorialvivo.com.br)**, a production SaaS for digital memorials, and **[Voicewoven](https://voicewoven.app)**, a Mac app that records, transcribes and summarizes meetings on-device with local models. Open-source contributor with PRs merged into Rails, Devise, RuboCop and others — [top 0.4% contributor rank on GitRanks](https://gitranks.com/profile/augustocbx).
 
 🔗 **[Portfolio](https://augustocbx.com.br)** · [LinkedIn](https://www.linkedin.com/in/augustocbx/) · [Resume (PDF)](https://augustocbx.com.br/assets/augusto-xavier-cv.pdf)
 
@@ -24,6 +26,8 @@ Goiânia, Brazil 🇧🇷 · Remote for teams in the US, Canada & Europe
 ### Selected projects
 
 - **[Memorial Vivo](https://memorialvivo.com.br)** — a production SaaS for digital memorials. Built solo end to end on Ruby on Rails (payments, WhatsApp notifications, AI biography assistant, CI + quality gates).
+- **[Voicewoven](https://voicewoven.app)** — a Mac app for meetings you can come back to: records without a bot, transcribes on-device (EN, PT, ES), separates speakers, and writes summaries, decisions and tasks linked to the exact quote. Local models by default. `Swift` · [Releases](https://github.com/augustocbx/voicewoven-releases)
+- **[Heed macOS](https://github.com/augustocbx/heed-macos)** — open-source (MIT) macOS adaptation of Heed for local meeting recording and transcription in English and Brazilian Portuguese. `TypeScript` `Python` `Swift`
 - **[Tripify](https://tripifyapp.com)** — collaborative trip planning across iOS, Android & Web. Founding engineer — architecture, infra & deploy.
 - **[assistente-pessoal](https://github.com/augustocbx/assistente-pessoal)** — AI assistant on Telegram with Claude orchestration, fully Dockerized. `Python`
 - **[dashboard-financas](https://github.com/augustocbx/dashboard-financas)** — personal finance dashboard powered by the Pierre Finance API. `TypeScript`
