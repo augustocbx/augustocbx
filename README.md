@@ -3,7 +3,9 @@
 **Senior Software Engineer · Ruby on Rails & Go**
 Based in Goiânia, Brazil 🇧🇷 · Open to remote roles with teams in the US, Canada and Europe
 
-20+ years building software — Ruby on Rails since 2008. I work on **royalty & rights platforms, SaaS, and high-volume web systems**: performance, background processing, search at scale, and long-lived system evolution. Senior Engineer at **MetaComet Systems**.
+27 years building software (since 1999) — Ruby on Rails since 2008. I work on **royalty & rights platforms, SaaS, and high-volume web systems**: databases, performance, background processing, search at scale, and long-lived system evolution. Senior Engineer at **MetaComet Systems**; previously tech lead at the Public Prosecutor's Office of Goiás.
+
+**Databases:** 15+ years of PostgreSQL and 10+ of MySQL in production, plus MongoDB, Amazon Aurora, Redshift, Oracle (PL/SQL) and SQL Server — date-based partitioning, index tuning, denormalization, writer/reader splits.
 
 On the side I build products end to end: **[Memorial Vivo](https://memorialvivo.com.br)**, a production SaaS for digital memorials, and **[Voicewoven](https://voicewoven.app)**, a Mac app that records, transcribes and summarizes meetings on-device with local models. Open-source contributor with PRs merged into Rails, Devise, RuboCop and others — [top 0.4% contributor rank on GitRanks](https://gitranks.com/profile/augustocbx).
 
@@ -18,6 +20,10 @@ On the side I build products end to end: **[Memorial Vivo](https://memorialvivo.
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -28,7 +34,7 @@ On the side I build products end to end: **[Memorial Vivo](https://memorialvivo.
 - **[Memorial Vivo](https://memorialvivo.com.br)** — a production SaaS for digital memorials. Built solo end to end on Ruby on Rails (payments, WhatsApp notifications, AI biography assistant, CI + quality gates).
 - **[Voicewoven](https://voicewoven.app)** — a Mac app for meetings you can come back to: records without a bot, transcribes on-device (EN, PT, ES), separates speakers, and writes summaries, decisions and tasks linked to the exact quote. Local models by default. In active development; preview builds available. `TypeScript` `Swift` · [Releases](https://github.com/augustocbx/voicewoven-releases)
 - **[Heed macOS](https://github.com/augustocbx/heed-macos)** — open-source (MIT) macOS adaptation of [Heed](https://github.com/isjunrod/heed) for local meeting recording and transcription in English and Brazilian Portuguese. My additions: menu bar controls, automatic recording for Slack meetings, transcript-synced playback and a localized UI. `TypeScript` `Python` `Swift`
-- **Tripify** (2016–2023, discontinued) — collaborative trip planning across iOS, Android & Web. Founding engineer — architecture, infra & deploy.
+- **Tripify** (2015–2025, side project, discontinued) — collaborative trip planning across native iOS, native Android & Web. Designed the system architecture; one of two backend engineers on a team of five.
 - **[assistente-pessoal](https://github.com/augustocbx/assistente-pessoal)** — AI assistant on Telegram with Claude orchestration, fully Dockerized. `Python`
 - **[dashboard-financas](https://github.com/augustocbx/dashboard-financas)** — personal finance dashboard powered by the Pierre Finance API. `TypeScript`
 
