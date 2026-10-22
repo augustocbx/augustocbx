@@ -30,6 +30,9 @@ Goiânia, Brazil 🇧🇷 · Remote for teams in the US, Canada & Europe
 
 ### Open source — merged upstream
 
+[![GitRanks Contributor Rank](https://gitranks.com/badges/augustocbx/contributions-rank.svg)](https://gitranks.com/profile/augustocbx)
+[![GitRanks Contribution Score](https://gitranks.com/badges/augustocbx/contributions-score.svg)](https://gitranks.com/profile/augustocbx)
+
 [rails/rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aaugustocbx+is%3Amerged) · [heartcombo/devise](https://github.com/heartcombo/devise/pulls?q=is%3Apr+author%3Aaugustocbx+is%3Amerged) · [rubocop/rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3Aaugustocbx+is%3Amerged)
 
 ### Reach me
